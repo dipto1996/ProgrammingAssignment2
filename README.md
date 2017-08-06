@@ -101,5 +101,6 @@ In order to complete this assignment, you must do the following:
     the completed R code for the assignment.
 
 ### Grading
-
+SHA CODE:
+94f02914daa2662931c153b8479108acbc1727a5
 This assignment will be graded via peer assessment.
